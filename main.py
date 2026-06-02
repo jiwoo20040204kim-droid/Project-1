@@ -473,7 +473,7 @@ cities_data = {
     "괌": {
         "flag": "🇬🇺",
         "english": "Guam",
-        "image_url": "image/괌.webp",
+        "image_url": "image/guam.jpg",
         "description": "비행 시간도 짧고 안전한 치안과 끝없이 투명한 에메랄드빛 해변, 그리고 평화로운 휴식을 원하는 모두를 위한 진정한 지상낙원 남태평양 섬입니다.",
         "best_time": "12월 ~ 5월 (비가 거의 오지 않는 상쾌한 건기)",
         "attractions": "사랑의 절벽 노을 스팟, 하얀 모래와 얕고 맑은 투몬 비치, 스노클러들의 천국 리티디안 비치, 이나라한 천연 해수 풀장",
@@ -573,7 +573,7 @@ cities_data = {
     "보스턴": {
         "flag": "🇺🇸",
         "english": "Boston",
-        "image_url": "image/보스턴.webp",
+        "image_url": "image/boston.jpeg",
         "description": "미국 역사와 독립운동의 숨결이 골목 구석구석 서려 있는 곳이자 하버드 대학교, MIT 등 세계 최고 지성들이 모여 숨쉬는 품격 있고 차분한 역사와 학문의 도시입니다.",
         "best_time": "9월 ~ 10월 (강변을 따라 뉴잉글랜드 지방의 화려한 단풍이 번지는 완벽한 가을)",
         "attractions": "붉은 벽돌 선을 따라 걷는 역사 산책 프리덤 트레일, 하버드 대학교 & MIT 캠퍼스 투어, 보스턴 커먼 공원 호숫가, 활기찬 퀸시 마켓 푸드코트",
